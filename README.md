@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.svg" alt="Jonathan Locks: founder e entusiasta de IA, com projetos, skills, frameworks e plugins para a comunidade" width="100%">
 
-Sou founder e entusiasta de IA. Trabalho com engenharia de prompt e engenharia de contexto: escrevo as instruções, a memória e o contexto que fazem modelos como o Claude e o ChatGPT entregarem um trabalho confiável.
+Sou founder, consultor de IA para empresas e entusiasta da área. Trabalho com engenharia de prompt e engenharia de contexto: escrevo as instruções, a memória e o contexto que fazem modelos como o Claude e o ChatGPT entregarem um trabalho confiável.
 
 Já programei em Java, Python e JavaScript. Hoje construo com ferramentas como Claude Code e Codex.
 
