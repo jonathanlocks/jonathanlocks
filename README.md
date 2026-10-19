@@ -1,5 +1,7 @@
 <!-- Dono: Jonathan Locks. Revisar quando: lançar um projeto aberto, a startup sair do modo fechado, ou mudar de papel. Última revisão: 2026-10. -->
 
+<img src="./assets/banner-nome.svg" alt="Jonathan Locks" width="100%">
+
 Sou founder, consultor de IA para empresas e entusiasta da área. Trabalho com engenharia de prompt e engenharia de contexto: escrevo as instruções, a memória e o contexto que fazem modelos como o Claude e o ChatGPT entregarem um trabalho confiável.
 
 Já programei em Java, Python e JavaScript. Hoje construo com ferramentas como Claude Code e Codex.
