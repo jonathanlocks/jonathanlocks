@@ -1,23 +1,17 @@
 <!-- Dono: Jonathan Locks. Revisar quando: lançar um projeto aberto, a startup sair do modo fechado, ou mudar de papel. Última revisão: 2026-10. -->
 
-<img src="./assets/banner.svg" alt="Jonathan Locks: founder de uma startup de IA, abrindo em português skills e mods de Claude Code" width="100%">
+<img src="./assets/banner.svg" alt="Jonathan Locks: founder e entusiasta de IA, com projetos, skills, frameworks e plugins para a comunidade" width="100%">
 
-Sou founder de uma startup de IA para escritórios de advocacia. Ela ainda está em modo fechado, então o código fica privado.
+Sou founder e entusiasta de IA. Trabalho com engenharia de prompt e engenharia de contexto: escrevo as instruções, a memória e o contexto que fazem modelos como o Claude e o ChatGPT entregarem um trabalho confiável.
 
-Uso o Claude Code para quase tudo e estou começando a abrir, em português, as skills e os mods que criei para mim. Quase todo material bom sobre isso está em inglês, e quero que exista mais coisa aqui.
+Já programei em Java, Python e JavaScript. Hoje construo com ferramentas como Claude Code e Codex.
 
-### Agora (outubro de 2026)
+<img src="./assets/faturamento.svg" alt="Mais de 100 mil reais faturados com ferramentas de IA" width="100%">
 
-- Montando a startup com meu sócio.
-- Preparando os primeiros projetos abertos. Quando saírem, ficam fixados aqui embaixo.
-- Testando agentes que pesquisam na web e conferem a fonte de cada afirmação antes de responder.
+### O que vai aparecer aqui
 
-### Antes
-
-Escrevi plugins em Java para um servidor de Minecraft e comecei uma plataforma em Python para testar estratégias de trading na B3.
+Meus projetos e material aberto para a comunidade: skills, frameworks e plugins para agentes de IA, em português.
 
 ### Com o que trabalho
 
-<img src="https://skillicons.dev/icons?i=ts,py,go,java,nextjs,supabase" alt="TypeScript, Python, Go, Java, Next.js e Supabase">
-
-O banner lá em cima eu fiz com o Claude, em SVG.
+<img src="https://skillicons.dev/icons?i=java,py,js" alt="Java, Python e JavaScript">
