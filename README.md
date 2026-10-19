@@ -8,6 +8,17 @@ Já programei em Java, Python e JavaScript. Hoje construo com ferramentas como C
 
 <img src="./assets/faturamento-grafico-v2.svg" alt="Mais de 100 mil reais faturados com ferramentas de IA" width="100%">
 
+### Especialidades
+
+- Frameworks para agentes de IA: sistemas de skills, subagentes e workflows.
+- Engenharia de contexto: organizar o conhecimento de uma empresa para que os agentes deixem de só responder perguntas e passem a fazer o trabalho.
+- Servidores MCP, que ligam os agentes a dados e ferramentas internas.
+
+### Aprofundando
+
+- Orquestração de agentes: um modelo coordenando vários subagentes em tarefas longas.
+- Contexto aprovado: bases de conhecimento em que o agente só usa o que tem fonte, foi revisado por uma pessoa responsável e ainda está valendo.
+
 ### O que vai aparecer aqui
 
 Meus projetos e material aberto para a comunidade: skills, frameworks e plugins para agentes de IA, em português.
