@@ -6,7 +6,7 @@ Sou founder, consultor de IA para empresas e entusiasta da área. Trabalho com e
 
 Já programei em Java, Python e JavaScript. Hoje construo com ferramentas como Claude Code e Codex.
 
-<img src="./assets/faturamento-grafico.svg" alt="Mais de 100 mil reais faturados com ferramentas de IA" width="100%">
+<img src="./assets/faturamento-grafico-v2.svg" alt="Mais de 100 mil reais faturados com ferramentas de IA" width="100%">
 
 ### O que vai aparecer aqui
 
